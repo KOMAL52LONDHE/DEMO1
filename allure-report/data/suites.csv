@@ -1,0 +1,4 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","0","test_sum_001","test_cases","Sat Aug 10 17:20:33 IST 2024","passed","Sat Aug 10 17:20:33 IST 2024","Test001","test_file1","",""
+"","0","test_sub_003","test_cases","Sat Aug 10 17:20:33 IST 2024","passed","Sat Aug 10 17:20:33 IST 2024","Test001","test_file1","",""
+"","0","test_mul_002","test_cases","Sat Aug 10 17:20:33 IST 2024","skipped","Sat Aug 10 17:20:33 IST 2024","Test001","test_file1","",""
